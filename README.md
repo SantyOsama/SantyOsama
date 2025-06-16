@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B%2C+I'm+Santy+Osama)](https://git.io/typing-svg)
 
-<h1 align="center"> ITI 9-Month program trainee || Full Stack .Net developer || <br> Software Engineer || Competitive Programmer || <br> React Developer</h1>
+<h1 align="center"> ITI 9-Month program trainee || Backend .Net developer || <br> Software Engineer || Competitive Programmer</h1>
 
 <div>
 	<!-- Profile Views -->
@@ -13,7 +13,7 @@
 	<img alt="gif" align="right" src="https://github.com/SantyOsama/SantyOsama/blob/main/git.gif" width=300 height=300/>
 	<br>
 	<h3> ★ How to reach me <b>See  <a href ="https://www.linkedin.com/in/santy-osama/" >Connect with me</a> section</h3>
-	<h3> ★ Know about my experiences from <b><a href="#"> my resume</a></b> </h3>
+	<h3> ★ Know about my experiences from <b><a href="https://drive.google.com/file/d/1fNA-F1fDlcKVrHwEeh47wa_VY0_m6R4X/view?usp=sharing"> my resume</a></b> </h3>
 	<h3 align="center" >&darr;&darr; Or &darr;&darr; </h3>
 	<!--<h3> ★ See my web-based version of my re⚡ume <b><a href="#"> Visit my Portfolio Website</a> </b></h3> -->
 </div>
@@ -25,6 +25,7 @@
 	<h2><img src="https://github.com/SantyOsama/SantyOsama/blob/main/Assets/Hot.png" height="32px"> Facts About Me </h2>
 	<img src="https://github.com/SantyOsama/SantyOsama/blob/main/HardWork.gif" width = 300px align="right"/>
 	<br>
+        <h3> ★ <strong>I love Playing Music Specially Piano</strong> </h3>
 	<h3> ★ <strong>I love coding </strong> </h3>
 	<h3> ★ <strong>Challenges lover person</strong> </h3>
 	<h3> ★ <strong>Tech Lover and continuous learning</strong> </h3>
